@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-1. [XO Game](https://shanksdev.github.io/dev-experiments/xo-game/index.html)
+1. [XO Game](https://xo-game-demo-1029.web.app/)
 2. More coming soon.
 
 
